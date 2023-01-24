@@ -1,0 +1,13 @@
+snowflake_user = vikass@booleandata.com
+snowflake_password = Badmanraja1.
+snowflake_account = oseazbt-booleandata_partner
+snowflake_warehouse = BOOLEAN_DEV_WH
+snowflake_database = DEVELOPER_DB
+snowflake_schema =  VIKAS_SCHEMA
+sonwflake_role = DEVELOPER
+aws_access_key_id = AKIAZEKCPVUWF5LS7MMI
+aws_secret_access_key = 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
+bucket = semi-automation
+snowflake_information_schema = INFORMATION_SCHEMA
+local_file_location = C:/Users/Vikas Sony/Downloads/data_folder/
+region_name = ap-southeast-1
